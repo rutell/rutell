@@ -40,3 +40,9 @@
 <div>
     <img src="https://github-profile-trophy.vercel.app/?username=rutell" alt=""/>
 </div>
+
+### ⌨️ Наиболее используемые языки :
+
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutell" alt=""/>
+</div>
