@@ -1,4 +1,4 @@
-<div id=”badges” align =”center”>
+<div id=”badges” align ="center">
 	<a href= “https://vk.com/rutell_blowhey”>
     <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=myki&logoColor=white" alt="VK Badge" />
   </a>  
