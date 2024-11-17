@@ -13,5 +13,5 @@
 </div>
 
 <div id="heythere" align="center">
-    <h1> Профиль на ПGITHUB </h1>
+    <h1> Профиль на GITHUB </h1>
 </div>
