@@ -32,8 +32,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" width="40" height="48"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="48" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="48"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="48" height="40/>
-	    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="48" height="40" />	    
 </div>
 
 ### 🏆 Достижения :
