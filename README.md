@@ -46,3 +46,9 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutell" alt=""/>
 </div>
+
+### 📊 Статистика активности :
+
+<div>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rutell&theme=dracula" alt=""/>
+</div>
