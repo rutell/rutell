@@ -17,13 +17,6 @@
 </div>
 
 
-### :man_technologist: Обо мне:
-
-- 🧠 : факт обо мне
-
-- 👨‍✈️ : факт обо мне
-
-- 🚙 : факт обо мне
 
 ### 🛠️: Языки и инструменты :
 
@@ -33,18 +26,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="48" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="40" height="48"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="48" height="40" />	    
-</div>
-
-### 🏆 Достижения :
-
-<div>
-    <img src="https://github-profile-trophy.vercel.app/?username=rutell" alt=""/>
-</div>
-
-### ⌨️ Наиболее используемые языки :
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutell" alt=""/>
 </div>
 
 ### 📊 Статистика активности :
